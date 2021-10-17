@@ -1,4 +1,4 @@
-import Hello from "./hello";
+// import Hello from "./hello";
 // import Card from "./card";
 // import Message from "./message";
 // import MyChildren from "./MyChildren";
@@ -12,13 +12,13 @@ function App() {
   //   { id: 3, name: "Pobx 3" },
   // ];
 
-  const fn = () => alert(1);
+  // const fn = () => alert(1);
 
   return (
     <div className="App">
       {/* <Hello who={`My Name is ${name}`} /> */}
       {/* <Hello who={99} /> */}
-      <Hello who="Pobx" fn={fn} />
+      {/* <Hello who="Pobx" fn={fn} /> */}
       {/* <Message greet="Hi" who="Geidtiphong Singseewo" /> */}
       {/* <Message who="Pobx" /> */}
       {/* <Message {...objMessage} /> */}
