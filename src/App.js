@@ -1,7 +1,7 @@
 // import Hello from "./hello";
 // import Card from "./card";
 // import Message from "./message";
-// import myChildren from "./myChildren";
+// import MyChildren from "./MyChildren";
 
 function App() {
   // const name ='Geidtiphong'
@@ -20,9 +20,9 @@ function App() {
       {/* <Message greet="Hi" who="Geidtiphong Singseewo" /> */}
       {/* <Message who="Pobx" /> */}
       {/* <Message {...objMessage} /> */}
-      {/* <myChildren>
-        <h1>Pobx</h1>
-      </myChildren> */}
+      {/* <MyChildren>
+        <h1>Pobx6666666666666666</h1>
+      </MyChildren> */}
       {/* {todos.map((todo, index) => (
         <Card todo={todo} key={index} />
       ))} */}

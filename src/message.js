@@ -1,4 +1,4 @@
-function Message({ greet="Hello", who }) {
+function Message({ greet = "Hello", who }) {
   return (
     <div>
       {greet}, {who}
