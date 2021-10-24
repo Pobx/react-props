@@ -1,4 +1,5 @@
 function MyChildren({children}) {
+  console.log(children)
   return <>{children}</>
 }
 
